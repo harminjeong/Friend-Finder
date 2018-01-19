@@ -1,0 +1,173 @@
+var friends = 
+[{
+    "name":"iron man",
+    "photo":"",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+},
+
+{
+    "name":"thor",
+    "photo":"",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+},
+
+{
+    "name":"hulk",
+    "photo":"",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+},
+
+{
+    "name":"spiderman",
+    "photo":"",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+},
+
+{
+    "name":"deadpool",
+    "photo":"",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+},
+
+{
+    "name":"star-lord",
+    "photo":"",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+},
+
+{
+    "name":"dr. strange",
+    "photo":"",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+},
+
+{
+    "name":"daredevil",
+    "photo":"",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+},
+
+{
+    "name":"wolverine",
+    "photo":"",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+},
+
+{
+    "name":"captain america",
+    "photo":"",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+}
+]
+module.exports = friends;
+console.log(friends);
